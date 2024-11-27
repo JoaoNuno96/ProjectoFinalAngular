@@ -1,0 +1,48 @@
+<h1 class="text-center fst-italic fw-bold text-light">Lista de Perfis</h1>
+<br />
+
+<div class="text-center d-flex justify-content-center">
+  <table id="table" class="table table-hover align-middle mb-0 table-dark">
+    <thead class="table-light">
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Avatar</th>
+        <th scope="col">Name</th>
+        <th scope="col">Email</th>
+        <th scope="col">Password</th>
+        <th scope="col">List</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td>{{perfil.id}}</td>
+          <td>
+            <img [src]="perfil.avatar" alt="" />
+          </td>
+          <td>{{perfil.name}}</td>
+          <td>{{perfil.email}}</td>
+          <td>{{perfil.password}}</td>
+
+          <td>
+            <ul>
+              @for (list of perfil.lists; track $index) {
+                  <li>
+                    <p><u>Id:</u> {{list.id}}</p>
+                    <p><u>Nome:</u> {{list.name}}</p>
+                    <p><u>GameIds:</u> {{list.gamesIds}}</p>
+                    <br>
+                  </li>
+              }
+
+            </ul>
+          </td>
+
+
+
+        </tr>
+
+    </tbody>
+  </table>
+</div>
+
+

@@ -1,15 +1,19 @@
+import { RouterOutlet,RouterLink, RouterLinkActive,RouterModule } from '@angular/router';
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
-import { NavBarComponent } from "./nav-bar/nav-bar.component";
-import { BannerComponent } from "./banner/banner.component";
+import { NavBarComponent } from "./components/nav-bar/nav-bar.component";
+import { Perfil } from './models/perfil';
+import { ApService } from './ap.service';
+import { Jogo } from './models/jogo';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, NavBarComponent, BannerComponent],
+  imports: [RouterOutlet, NavBarComponent,RouterLink,RouterLinkActive,RouterModule],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
   title = 'GameWebsite';
+
+
 }

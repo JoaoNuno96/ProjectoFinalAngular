@@ -1,0 +1,68 @@
+.maintxt {
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(217deg, rgba(19, 168, 255, 0.4), rgba(0, 85, 255, 0.4) 70.71%), url("https://cdn2.unrealengine.com/Diesel%2Fblog%2Fepic-games-store-update%2FEGS_Social_Update_News-2560x1440-128a69890d92407b815582c1deba54450e5645f9.jpg");
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+#text{
+
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+
+
+#contain{
+  // border: 1px solid #ffc107;
+  height: 300px;
+  width: 100vw;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(217deg, rgba(255, 193, 7, 0.4), rgba(233, 98, 8, 0.4) 70.71%);
+  background-size: 100%;
+  background-position: center;
+  // background-repeat: no-repeat;
+
+  // background-color: rgb(red, green, blue);
+  // background-image: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+}
+
+#contain p{
+  color: #07399c;
+  font-weight: 700;
+}
+
+#contain h5{
+  color: #07399c;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+#contain button{
+  width: 300px;
+  margin: 0 auto;
+  border: 1px solid #07399c !important;
+  color: #07399c;
+}
+
+#contain button:hover{
+  width: 300px;
+  margin: 0 auto;
+  border: none;
+  background-color:#07399c !important ;
+  color: #FFF;
+  transition: 0.5s;
+}
+

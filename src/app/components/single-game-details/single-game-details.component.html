@@ -1,0 +1,46 @@
+<div class="container text-center">
+  <div class="jumbotron">
+    <h1 class="display-4">{{game.title}}</h1>
+    <h5 class="display-7">Game ID#{{game.id}}</h5>
+    <p>status: {{game.status}}</p>
+    <img src="{{game.thumbnail}}" width="600" alt="">
+    <p class="lead">{{game.description}}</p>
+    <hr class="my-4">
+    <p><strong>Game URL:</strong> <a href="{{game.gameUrl}}" target="_blank">{{game.gameUrl}}</a></p>
+    <p><strong>Genre:</strong> {{game.genre}}</p>
+    <p><strong>Platform:</strong> {{game.platform}}</p>
+    <p><strong>Publisher:</strong> {{game.publisher}}</p>
+    <p><strong>Developer:</strong> {{game.developer}}</p>
+    <p><strong>Release Date:</strong> {{game.releaseDate}}</p>7
+    <p><strong>Game Profile URL:</strong> <a href="{{game.freetogameProfileUrl}}" target="_blank">{{game.freetogameProfileUrl}}</a></p>
+    <p>Minimum System Requirements: </p>
+      <ul class="list-group">
+        @for (min of [game.minimumSystemRequirements]; track $index)
+        {
+          <li class="list-group-item"><p><strong>OS:</strong> {{min.os}}</p></li>
+          <li class="list-group-item"><p><strong>Processor:</strong> {{min.processor}}</p></li>
+          <li class="list-group-item"><p><strong>Memory:</strong> {{min.memory}}</p></li>
+          <li class="list-group-item"><p><strong>Graphics:</strong> {{min.graphics}}</p></li>
+          <li class="list-group-item"><p><strong>Storage:</strong> {{min.storage}}</p></li>
+        }
+
+      </ul>
+  </div>
+</div>
+
+<div class="container text-center">
+  <div class="row">
+    <div class=" display-6 mt-3 mb-2">
+      Which list do you want to place your game?
+    </div>
+  </div>
+  <div class="row">
+    <div class="btn-group-vertical">
+      <a (click)="sendToList('Play Later')" class="btn btn-primary" type="button" id="liveToastBtn">Play Later</a>
+      <a (click)="sendToList('Currently Playing')" class="btn btn-primary">Current Playing</a>
+      <a (click)="sendToList('Played')" class="btn btn-primary">Played</a>
+      <a (click)="sendToList('Completed')" class="btn btn-primary">Completed</a>
+    </div>
+
+  </div>
+</div>

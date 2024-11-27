@@ -1,0 +1,80 @@
+<h1 class="text-center fst-italic fw-bold text-light">Lista de Jogos</h1>
+<br />
+
+<app-search-bar (sendSearchInfo)="updateResearchValue($event)" />
+<br />
+
+<div id="selectContain">
+  <div>
+    <select (change)="verifyFilters()" [(ngModel)]="searchGenre" id="search_filter" class="form-select" aria-label="Default select example">
+      <option selected>Genre</option>
+      @for (genre of listGenre; track $index) {
+        <option value="{{genre}}">{{genre}}</option>
+      }
+    </select>
+  </div>
+  <div>
+    <select (change)="verifyFilters()" id="search_filter" [(ngModel)]="searchPlatform" class="form-select" aria-label="Default select example">
+      <option selected>Platform</option>
+      @for (platform of listPlatform; track $index) {
+        <option value="{{platform}}">{{platform}}</option>
+      }
+    </select>
+  </div>
+</div>
+
+
+<div class="mt-4 text-center d-flex justify-content-center">
+  <table id="table" class="table table-hover align-middle mb-0 table-dark">
+    <thead class="table-light">
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Title</th>
+        <th scope="col">thumbnail</th>
+        <th scope="col">shortDescription</th>
+        <th scope="col">gameUrl</th>
+        <th scope="col">genre</th>
+        <th scope="col">platform</th>
+        <th scope="col">publisher</th>
+        <th scope="col">developer</th>
+        <th scope="col">releaseDate</th>
+        <th scope="col">freetogameProfileUrl</th>
+        <th scope="col">Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      @for (game of listaGames; track $index)
+      {
+        <tr>
+          <td>{{game.id}}</td>
+          <td>{{game.title}}</td>
+          <td>
+            <img [src]="game.thumbnail" alt="gameImage" width="100" />
+          </td>
+          <td>{{game.shortDescription}}</td>
+          <td>
+            <a [href]="game.gameUrl" target="_blank">GameUrl</a>
+           </td>
+          <td>{{game.genre}}</td>
+          <td>{{game.platform}}</td>
+          <td>{{game.publisher}}</td>
+          <td>{{game.developer}}</td>
+          <td>{{game.releaseDate}}</td>
+          <td>
+            <a [href]="game.freetogameProfileUrl" target="_blank">FreetogameProfileUrl
+            </a>
+          </td>
+          <td>
+            <a routerLink="/jogo/{{game.id}}" class="btn btn-info">Details</a>
+
+          </td>
+        </tr>
+      }
+
+    </tbody>
+  </table>
+
+
+
+
+</div>

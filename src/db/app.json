@@ -1,0 +1,1042 @@
+{
+  "profile": {
+    "id": "06c2",
+    "name": "Zé Povinho",
+    "email": "zpovinho@mail.pt",
+    "password": "123456",
+    "avatar": "https://avatars.steamstatic.com/b32358b1a0f188ff07656a0c265b5af916224e96_full.jpg",
+    "lists": [
+      {
+        "id": "emif",
+        "name": "Play Later",
+        "gamesIds": [
+          "12",
+          "340",
+          "523"
+        ]
+      },
+      {
+        "id": "qepb",
+        "name": "Currently Playing",
+        "gamesIds": [
+          "11"
+        ]
+      },
+      {
+        "id": "9ou3",
+        "name": "Played",
+        "gamesIds": [
+          "511"
+        ]
+      },
+      {
+        "id": "gypq",
+        "name": "Completed",
+        "gamesIds": [
+          "522",
+          "508",
+          "540",
+          "582"
+        ]
+      }
+    ]
+  },
+  "platforms": [
+    {
+      "id": "4e6c",
+      "name": "Web Browser"
+    },
+    {
+      "id": "ef6a",
+      "name": "PC (Windows)"
+    },
+    {
+      "id": "ea9d",
+      "name": "Playstation 5"
+    }
+  ],
+  "genres": [
+    {
+      "id": "8dbf",
+      "name": "MMORPG"
+    },
+    {
+      "id": "599d",
+      "name": "Shooter"
+    },
+    {
+      "id": "f828",
+      "name": "Strategy"
+    },
+    {
+      "id": "99fe",
+      "name": "Action RPG"
+    },
+    {
+      "id": "9bf2",
+      "name": "Battle Royale"
+    },
+    {
+      "id": "fe4a",
+      "name": "ARPG"
+    },
+    {
+      "id": "f04d",
+      "name": "MMOARPG"
+    },
+    {
+      "id": "f93a",
+      "name": "Moba"
+    },
+    {
+      "id": "6554",
+      "name": "Card Games"
+    }
+  ],
+  "gamesList": [
+    {
+      "id": "582",
+      "title": "Tarisland",
+      "thumbnail": "https://www.freetogame.com/g/582/thumbnail.jpg",
+      "shortDescription": "A cross-platform MMORPG developed by Level Infinite and Published by Tencent.",
+      "gameUrl": "https://www.freetogame.com/open/tarisland",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "publisher": "Tencent",
+      "developer": "Level Infinite",
+      "releaseDate": "2024-06-22",
+      "freetogameProfileUrl": "https://www.freetogame.com/tarisland"
+    },
+    {
+      "id": "540",
+      "title": "Overwatch 2",
+      "thumbnail": "https://www.freetogame.com/g/540/thumbnail.jpg",
+      "shortDescription": "A hero-focused first-person team shooter from Blizzard Entertainment.",
+      "gameUrl": "https://www.freetogame.com/open/overwatch-2",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Activision Blizzard",
+      "developer": "Blizzard Entertainment",
+      "releaseDate": "2022-10-04",
+      "freetogameProfileUrl": "https://www.freetogame.com/overwatch-2"
+    },
+    {
+      "id": "516",
+      "title": "PUBG: BATTLEGROUNDS",
+      "thumbnail": "https://www.freetogame.com/g/516/thumbnail.jpg",
+      "shortDescription": "Get into the action in one of the longest running battle royale games PUBG Battlegrounds.",
+      "gameUrl": "https://www.freetogame.com/open/pubg",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "KRAFTON, Inc.",
+      "developer": "KRAFTON, Inc.",
+      "releaseDate": "2022-01-12",
+      "freetogameProfileUrl": "https://www.freetogame.com/pubg"
+    },
+    {
+      "id": "508",
+      "title": "Enlisted",
+      "thumbnail": "https://www.freetogame.com/g/508/thumbnail.jpg",
+      "shortDescription": "Get ready to command your own World War II military squad in Gaijin and Darkflow Software’s MMO squad-based shooter Enlisted. ",
+      "gameUrl": "https://www.freetogame.com/open/enlisted",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Gaijin Entertainment",
+      "developer": "Darkflow Software",
+      "releaseDate": "2021-04-08",
+      "freetogameProfileUrl": "https://www.freetogame.com/enlisted"
+    },
+    {
+      "id": "345",
+      "title": "Forge of Empires",
+      "thumbnail": "https://www.freetogame.com/g/345/thumbnail.jpg",
+      "shortDescription": "A free to play 2D browser-based online strategy game, become the leader and raise your city.",
+      "gameUrl": "https://www.freetogame.com/open/forge-of-empires",
+      "genre": "Strategy",
+      "platform": "Web Browser",
+      "publisher": "InnoGames",
+      "developer": "InnoGames",
+      "releaseDate": "2012-04-17",
+      "freetogameProfileUrl": "https://www.freetogame.com/forge-of-empires"
+    },
+    {
+      "id": "475",
+      "title": "Genshin Impact",
+      "thumbnail": "https://www.freetogame.com/g/475/thumbnail.jpg",
+      "shortDescription": "If you’ve been looking for a game to scratch that open-world action RPG itch, one with perhaps a bit of Asian flair, then you’re going to want to check out miHoYo’s Genshin Impact.",
+      "gameUrl": "https://www.freetogame.com/open/genshin-impact",
+      "genre": "Action RPG",
+      "platform": "PC (Windows)",
+      "publisher": "miHoYo",
+      "developer": "miHoYo",
+      "releaseDate": "2020-09-28",
+      "freetogameProfileUrl": "https://www.freetogame.com/genshin-impact"
+    },
+    {
+      "id": "523",
+      "title": "Fall Guys",
+      "thumbnail": "https://www.freetogame.com/g/523/thumbnail.jpg",
+      "shortDescription": "Play the most competitive massively multiplayer party royale game featuring beans ever for free on a variety of platforms. ",
+      "gameUrl": "https://www.freetogame.com/open/fall-guys",
+      "genre": "Battle Royale",
+      "platform": "PC (Windows)",
+      "publisher": "Mediatonic",
+      "developer": "Mediatonic",
+      "releaseDate": "2020-08-04",
+      "freetogameProfileUrl": "https://www.freetogame.com/fall-guys"
+    },
+    {
+      "id": "340",
+      "title": "Game Of Thrones Winter Is Coming",
+      "thumbnail": "https://www.freetogame.com/g/340/thumbnail.jpg",
+      "shortDescription": "A free-to-play browser-based RTS based on the George R.R. Martin novels and popular HBO series.",
+      "gameUrl": "https://www.freetogame.com/open/game-of-thrones-winter-is-coming",
+      "genre": "Strategy",
+      "platform": "Web Browser",
+      "publisher": "GTArcade",
+      "developer": "YOOZOO Games ",
+      "releaseDate": "2019-11-14",
+      "freetogameProfileUrl": "https://www.freetogame.com/game-of-thrones-winter-is-coming"
+    },
+    {
+      "id": "347",
+      "title": "Elvenar",
+      "thumbnail": "https://www.freetogame.com/g/347/thumbnail.jpg",
+      "shortDescription": "A browser based city-building strategy MMO set in the fantasy world of Elvenar.",
+      "gameUrl": "https://www.freetogame.com/open/elvenar",
+      "genre": "Strategy",
+      "platform": "Web Browser",
+      "publisher": "InnoGames",
+      "developer": "InnoGames",
+      "releaseDate": "2015-04-08",
+      "freetogameProfileUrl": "https://www.freetogame.com/elvenar"
+    },
+    {
+      "id": "11",
+      "title": "Neverwinter",
+      "thumbnail": "https://www.freetogame.com/g/11/thumbnail.jpg",
+      "shortDescription": "A free-to-play 3D action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game. ",
+      "gameUrl": "https://www.freetogame.com/open/neverwinter",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "publisher": "Perfect World Entertainment",
+      "developer": "Cryptic Studios",
+      "releaseDate": "2013-12-06",
+      "freetogameProfileUrl": "https://www.freetogame.com/neverwinter"
+    },
+    {
+      "id": "380",
+      "title": "Dark Orbit Reloaded",
+      "thumbnail": "https://www.freetogame.com/g/380/thumbnail.jpg",
+      "shortDescription": "A browser-based 3D space-combat MMO with a massive playerbase!",
+      "gameUrl": "https://www.freetogame.com/open/darkorbit",
+      "genre": "Shooter",
+      "platform": "Web Browser",
+      "publisher": "Bigpoint",
+      "developer": "Bigpoint",
+      "releaseDate": "2006-12-11",
+      "freetogameProfileUrl": "https://www.freetogame.com/darkorbit"
+    },
+    {
+      "id": "517",
+      "title": "Lost Ark",
+      "thumbnail": "https://www.freetogame.com/g/517/thumbnail.jpg",
+      "shortDescription": "Smilegate’s free-to-play multiplayer ARPG is a massive adventure filled with lands waiting to be explored, people waiting to be met, and an ancient evil waiting to be destroyed.",
+      "gameUrl": "https://www.freetogame.com/open/lost-ark",
+      "genre": "ARPG",
+      "platform": "PC (Windows)",
+      "publisher": "Amazon Games",
+      "developer": "Smilegate RPG",
+      "releaseDate": "2022-02-11",
+      "freetogameProfileUrl": "https://www.freetogame.com/lost-ark"
+    },
+    {
+      "id": "573",
+      "title": "Titan Revenge",
+      "thumbnail": "https://www.freetogame.com/g/573/thumbnail.jpg",
+      "shortDescription": "A 3D Norse-themed browser MMORPG developed and published by Game Hollywood Games",
+      "gameUrl": "https://www.freetogame.com/open/titan-revenge",
+      "genre": "MMORPG",
+      "platform": "Web Browser",
+      "publisher": "Game Hollywood Games",
+      "developer": "Game Hollywood Games",
+      "releaseDate": "2023-12-20",
+      "freetogameProfileUrl": "https://www.freetogame.com/titan-revenge"
+    },
+    {
+      "id": "521",
+      "title": "Diablo Immortal",
+      "thumbnail": "https://www.freetogame.com/g/521/thumbnail.jpg",
+      "shortDescription": "Built for mobile and also released on PC, Diablo Immortal fills in the gaps between Diablo II and III in an MMOARPG environment.",
+      "gameUrl": "https://www.freetogame.com/open/diablo-immortal",
+      "genre": "MMOARPG",
+      "platform": "PC (Windows)",
+      "publisher": "Blizzard Entertainment",
+      "developer": "Blizzard Entertainment",
+      "releaseDate": "2022-06-02",
+      "freetogameProfileUrl": "https://www.freetogame.com/diablo-immortal"
+    },
+    {
+      "id": "522",
+      "title": "Flyff Universe",
+      "thumbnail": "https://www.freetogame.com/g/522/thumbnail.jpg",
+      "shortDescription": "Get the full Flyff experience on any platform with the free-to-play browser-based MMORPG Flyff Universe.",
+      "gameUrl": "https://www.freetogame.com/open/flyff-universe",
+      "genre": "MMORPG",
+      "platform": "Web Browser",
+      "publisher": "Gala Lab",
+      "developer": "Gala Lab",
+      "releaseDate": "2022-06-14",
+      "freetogameProfileUrl": "https://www.freetogame.com/flyff-universe"
+    },
+    {
+      "id": "511",
+      "title": "Phantasy Star Online 2 New Genesis",
+      "thumbnail": "https://www.freetogame.com/g/511/thumbnail.jpg",
+      "shortDescription": "The legacy of Phantasy Star Online 2 continues a thousand years later!",
+      "gameUrl": "https://www.freetogame.com/open/pso2-new-genesis",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "publisher": "Sega",
+      "developer": "Sega",
+      "releaseDate": "2021-06-09",
+      "freetogameProfileUrl": "https://www.freetogame.com/pso2-new-genesis"
+    },
+    {
+      "id": "455",
+      "title": "Eternal Fury",
+      "thumbnail": "https://www.freetogame.com/g/455/thumbnail.jpg",
+      "shortDescription": "A free-to-play ARPG from R2 Games!",
+      "gameUrl": "https://www.freetogame.com/open/eternal-fury",
+      "genre": "MMORPG",
+      "platform": "Web Browser",
+      "publisher": "R2 Games",
+      "developer": "R2 Games",
+      "releaseDate": "2019-05-21",
+      "freetogameProfileUrl": "https://www.freetogame.com/eternal-fury"
+    },
+    {
+      "id": "5",
+      "title": "Crossout",
+      "thumbnail": "https://www.freetogame.com/g/5/thumbnail.jpg",
+      "shortDescription": "A post-apocalyptic MMO vehicle combat game! ",
+      "gameUrl": "https://www.freetogame.com/open/crossout",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Targem",
+      "developer": "Gaijin",
+      "releaseDate": "2017-05-30",
+      "freetogameProfileUrl": "https://www.freetogame.com/crossout"
+    },
+    {
+      "id": "9",
+      "title": "World of Warships",
+      "thumbnail": "https://www.freetogame.com/g/9/thumbnail.jpg",
+      "shortDescription": "A 3D free to play naval action-themed MMO from the creators of World of Tanks! ",
+      "gameUrl": "https://www.freetogame.com/open/world-of-warships",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Wargaming",
+      "developer": "Wargaming",
+      "releaseDate": "2015-07-02",
+      "freetogameProfileUrl": "https://www.freetogame.com/world-of-warships"
+    },
+    {
+      "id": "12",
+      "title": "War Thunder",
+      "thumbnail": "https://www.freetogame.com/g/12/thumbnail.jpg",
+      "shortDescription": "A MMO shooter that puts you in command of hundreds of the finest combat vehicles of World War II.",
+      "gameUrl": "https://www.freetogame.com/open/war-thunder",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Gaijin Entertainment",
+      "developer": "Gaijin Entertainment",
+      "releaseDate": "2013-08-15",
+      "freetogameProfileUrl": "https://www.freetogame.com/war-thunder"
+    }
+  ],
+  "gameDetails": [
+    {
+      "id": "582",
+      "title": "Tarisland",
+      "thumbnail": "https://www.freetogame.com/g/582/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "A cross-platform MMORPG developed by Level Infinite and Published by Tencent.",
+      "description": "Tarisland is a free-to-play cross-platform MMORPG developed by Level Infinite and Published by Tencent. \r\n\r\nAvailable on PC and mobile devices, the game allows players to easily move between both, taking the game with them when they can’t be at their desk. The game is designed to appeal to players of MMOs like World of Warcraft, offering players nine playable classes and 18 specializations.\r\n\r\nEach class features an extensive talent tree system and can be customized. Players of existing MMOs will be familiar with the standard tank, DPS, and healer lineup, necessary for the game’s classic raid and dungeon system. Explore a vast game world and solve mysteries. Pick up various trades such as gathering, mining, and crafting, and sell your items on the auction house.",
+      "gameUrl": "https://www.freetogame.com/open/tarisland",
+      "genre": "MMORPG",
+      "platform": "Windows",
+      "publisher": "Tencent",
+      "developer": "Level Infinite",
+      "releaseDate": "2024-06-22",
+      "freetogameProfileUrl": "https://www.freetogame.com/tarisland",
+      "minimumSystemRequirements": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-4590 or AMD FX-8350",
+        "memory": "8 GB",
+        "graphics": "Nvidia GeForce GTX 960 or AMD Radeon R9 280",
+        "storage": "20 GB"
+      },
+      "screenshots": [
+        {
+          "id": "1448",
+          "image": "https://www.freetogame.com/g/582/tarisland-1.jpg"
+        },
+        {
+          "id": "1449",
+          "image": "https://www.freetogame.com/g/582/tarisland-2.jpg"
+        },
+        {
+          "id": "1450",
+          "image": "https://www.freetogame.com/g/582/tarisland-3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "540",
+      "title": "Overwatch 2",
+      "thumbnail": "https://www.freetogame.com/g/540/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "A hero-focused first-person team shooter from Blizzard Entertainment.",
+      "description": "The tale of the hero organization Overwatch continues in Overwatch 2. This new take on the popular team shooter changes up things a little with five-man teams, redefined classes, and new playable characters. With the adjustment to 5v5, players now have more individual impact than in the previous game.\r\n\r\nChallenge yourself in all-new modes. Take control of a robot with your team in Push and take it to the enemy base before the enemy can take it from you. Explore all new areas, including iconic real-world cities such as New York, Rome, Monte Carlo, Toronto, and more.\r\n\r\nOverwatch 2 features an update schedule that drops new content every nine weeks. It also boasts a regular battle pass – both free and premium. This is where some of the game’s characters will be obtained.",
+      "gameUrl": "https://www.freetogame.com/open/overwatch-2",
+      "genre": "Shooter",
+      "platform": "Windows",
+      "publisher": "Activision Blizzard",
+      "developer": "Blizzard Entertainment",
+      "releaseDate": "2022-10-04",
+      "freetogameProfileUrl": "https://www.freetogame.com/overwatch-2",
+      "minimumSystemRequirements": {
+        "os": "Windows 10 64-bit ",
+        "processor": "Intel Core i3 or AMD Phenom X3 8650",
+        "memory": "6 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 600 series, AMD Radeon HD 7000 series",
+        "storage": "50 GB"
+      },
+      "screenshots": [
+        {
+          "id": "1334",
+          "image": "https://www.freetogame.com/g/540/overwatch-2-1.jpg"
+        },
+        {
+          "id": "1335",
+          "image": "https://www.freetogame.com/g/540/overwatch-2-2.jpg"
+        },
+        {
+          "id": "1336",
+          "image": "https://www.freetogame.com/g/540/overwatch-2-3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "516",
+      "title": "PUBG: BATTLEGROUNDS",
+      "thumbnail": "https://www.freetogame.com/g/516/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "Get into the action in one of the longest running battle royale games PUBG Battlegrounds.",
+      "description": "Get into the action in one of the longest running battle royale games PUBG Battlegrounds. Originally titled PlayerUnknown’s Battlegrounds, the game has been offering players the full battle royale experience in a more realistic setting since 2017. Test yourself against 99 other players on seven different maps using whatever weapons you can find. Just be sure to be the last one standing, because that’s the only way to win.\r\n\r\nGo it alone or play with friends in groups of two or four. Start out with only the clothes on your back, loot buildings, towns, and other locations to obtain the equipment you need. This includes weapons, armor, vehicles, and more. If you want the really good gear – and it’s likely you do – you’ll have to take some risks and head to the more dangerous zones on the map.\r\n\r\nAs is generally the case with the battle royale formula, PUBG’s map shrinks over time, herding all players into a random location where they will eventually have no choice but to engage each other or risk taking damage outside the restricted area. At the same time, random areas of the map will be bombed. So, players must be aware of both events and do their best to avoid them.\r\n\r\nPUBG Battlegrounds is free-to-play and offers players purchasable items in the form of cosmetics. These do not impact game play.\r\n",
+      "gameUrl": "https://www.freetogame.com/open/pubg",
+      "genre": "Shooter",
+      "platform": "Windows",
+      "publisher": "KRAFTON, Inc.",
+      "developer": "KRAFTON, Inc.",
+      "releaseDate": "2022-01-12",
+      "freetogameProfileUrl": "https://www.freetogame.com/pubg",
+      "minimumSystemRequirements": {
+        "os": "64-bit Windows 7, Windows 8.1, Windows 10",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB",
+        "storage": "40 GB available space"
+      },
+      "screenshots": [
+        {
+          "id": "1256",
+          "image": "https://www.freetogame.com/g/516/pubg-1.jpg"
+        },
+        {
+          "id": "1257",
+          "image": "https://www.freetogame.com/g/516/pubg-2.jpg"
+        },
+        {
+          "id": "1258",
+          "image": "https://www.freetogame.com/g/516/pubg-3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "508",
+      "title": "Enlisted",
+      "thumbnail": "https://www.freetogame.com/g/508/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "Get ready to command your own World War II military squad in Gaijin and Darkflow Software’s MMO squad-based shooter Enlisted. ",
+      "description": "Get ready to command your own World War II military squad in Gaijin and Darkflow Software’s squad-based shooter Enlisted. Play as an infantry squad leader, tank crew, or even an aircraft pilot in a game where everything from the uniforms and weapons to the vehicles are designed with historical accuracy in mind.\r\n\r\nIn Enlisted, players can train an equip their squad with weapons and other useful items before taking them into battle. Players control one soldier in their squad at a time, and have the ability to switch when a part of the squad has been defeated. When one solider is under player control, the rest are controlled by AI that obeys player orders.\r\n\r\nPlayers have access to four different campaigns, each associated with a specific real-world battle. In each instance the squads, weaponry, vehicles and more will appropriately correspond to each location and date. The game offers hundreds of realistic weapons as well as vehicles that World War II buffs will be familiar with. \r\n\r\nAs for the squads, players have access to 12 different kinds of specialists. In addition to the soldiers that spawn naturally, players can recruit additional ones.",
+      "gameUrl": "https://www.freetogame.com/open/enlisted",
+      "genre": "Shooter",
+      "platform": "Windows",
+      "publisher": "Gaijin Entertainment",
+      "developer": "Darkflow Software",
+      "releaseDate": "2021-04-08",
+      "freetogameProfileUrl": "https://www.freetogame.com/enlisted",
+      "minimumSystemRequirements": {
+        "os": "Windows 7 / 8 / 10 64bit",
+        "processor": "Intel Core i3 or better",
+        "memory": "8 GB",
+        "graphics": "Nvidia GeForce 660, AMD Radeon series 78XX or better",
+        "storage": "12GB"
+      },
+      "screenshots": [
+        {
+          "id": "1231",
+          "image": "https://www.freetogame.com/g/508/enlisted-1.jpg"
+        },
+        {
+          "id": "1232",
+          "image": "https://www.freetogame.com/g/508/enlisted-2.jpg"
+        },
+        {
+          "id": "1233",
+          "image": "https://www.freetogame.com/g/508/enlisted-3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "345",
+      "title": "Forge of Empires",
+      "thumbnail": "https://www.freetogame.com/g/345/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "A free to play 2D browser-based online strategy game, become the leader and raise your city.",
+      "description": "Forge of Empires is a free to play 2D browser-based online strategy game that gives players the chance to make their unique city-state into an imperial powerhouse. Everyone has dreamt of building their own empire at some point or another, and Forge of Empires can bring that dream to life.\r\n\r\nPlayers will watch as their civilizations in Forge of Empires begin in the Stone Age and advance all the way into the Industrial Age. The campaign mode is single player and brings players a unique in-depth experience that allows them to use military action, skilled diplomacy, and cunning strategy to achieve their goals.\r\n\r\nMoreover, players in Forge of Empires choose where everything goes, setting up their civilization according to their whims and desires. Any buildings they want and where they want them are ultimately up to them.\r\n\r\nThe greatest feature of Forge of Empires is its wide availability. Players can access Forge of Empires from their Browsers, Apple iOS, Android App, and even on Facebook. It’s only fitting that a game that can create an empire reaches across a multitude of platforms.",
+      "gameUrl": "https://www.freetogame.com/open/forge-of-empires",
+      "genre": "Strategy",
+      "platform": "Web Browser",
+      "publisher": "InnoGames",
+      "developer": "InnoGames",
+      "releaseDate": "2012-04-17",
+      "freetogameProfileUrl": "https://www.freetogame.com/forge-of-empires",
+      "screenshots": [
+        {
+          "id": "909",
+          "image": "https://www.freetogame.com/g/345/forge-of-empires-1.jpg"
+        },
+        {
+          "id": "910",
+          "image": "https://www.freetogame.com/g/345/forge-of-empires-2.jpg"
+        },
+        {
+          "id": "911",
+          "image": "https://www.freetogame.com/g/345/forge-of-empires-3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "475",
+      "title": "Genshin Impact",
+      "thumbnail": "https://www.freetogame.com/g/475/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "If you’ve been looking for a game to scratch that open-world action RPG itch, one with perhaps a bit of Asian flair, then you’re going to want to check out miHoYo’s Genshin Impact.",
+      "description": "If you’ve been looking for a game to scratch that open-world ARPG itch, one with perhaps a bit of Asian flair, then you’re going to want to check out miHoYo’s Genshin Impact. The developer, known previously for Honkai Impact 3rd, take players to the world of Teyvat, a vast open-world designed for extended exploration. Players not only explore dungeons, but climb mountains, trees, and buildings to discover all kinds of secrets. \r\n\r\nOf course, the main character doesn’t travel alone. Instead, players build a four-player group out of over 20 characters that can be swapped out to create the best group for any particular mission. The characters, each with different skills filling out the classic RPG types as well as distinct elemental focuses, can be obtained via gameplay or the game’s gacha mechanics – as is gear. Both characters and gear are upgraded in the game via the in depth crafting system.\r\n\r\nIn addition, the game offers players an adventurer system that provides them with even more to do, be it daily quests, small favors for the locals, or big continent-traveling quests. The adventurer system also rewards players for their activities with a wide variety of items.\r\n\r\nGenshin Impact is available to players on PC, PlayStation 4, and mobile devices. It also features a multiplayer mode allowing up to four players to play together and cross-play across all four platforms, however, PlayStation 4 does not allow for cross-progression.",
+      "gameUrl": "https://www.freetogame.com/open/genshin-impact",
+      "genre": "Action RPG",
+      "platform": "Windows",
+      "publisher": "miHoYo",
+      "developer": "miHoYo",
+      "releaseDate": "2020-09-28",
+      "freetogameProfileUrl": "https://www.freetogame.com/genshin-impact",
+      "minimumSystemRequirements": {
+        "os": "Windows 7 SP1 64-bit",
+        "processor": "Intel Core i7 or equivalent",
+        "memory": "16 GB",
+        "graphics": "NVIDIA GeForce GTX 1060 6GB or better",
+        "storage": "30 GB"
+      },
+      "screenshots": [
+        {
+          "id": "1191",
+          "image": "https://www.freetogame.com/g/475/genshin-impact-1.jpg"
+        },
+        {
+          "id": "1192",
+          "image": "https://www.freetogame.com/g/475/genshin-impact-2.jpg"
+        },
+        {
+          "id": "1193",
+          "image": "https://www.freetogame.com/g/475/genshin-impact-3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "523",
+      "title": "Fall Guys",
+      "thumbnail": "https://www.freetogame.com/g/523/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "Play the most competitive massively multiplayer party royale game featuring beans ever for free on a variety of platforms. ",
+      "description": "Play the most competitive massively multiplayer party royale game featuring beans ever for free on a variety of platforms. Mediatonic’s obstacle course-style game Fall Guys offers players all the excitement of being in a Japanese-style game show – only as a bean and with less chance of severe injury.\r\n\r\nMake your way through the obstacle course as quickly as possible while avoiding all the dangers, and everyone else who’d like to take you out and take your spot at the top. Make the run by yourself or work together in teams… until you don’t need your friends any more, that is. Run across spinning tubes with holes in them. Dodge big blades and big balls. Break your way through doors.\r\n And do it all in style, with your choice of bean-shaped costumes.\r\n\r\nPlayers can join their friends across several platforms including PlayStation, Xbox, Nintendo Switch, and PC (via the Epic Games Store).\r\n",
+      "gameUrl": "https://www.freetogame.com/open/fall-guys",
+      "genre": "Battle Royale",
+      "platform": "Windows",
+      "publisher": "Mediatonic",
+      "developer": "Mediatonic",
+      "releaseDate": "2020-08-04",
+      "freetogameProfileUrl": "https://www.freetogame.com/fall-guys",
+      "minimumSystemRequirements": {
+        "os": "Windows 10 64bit",
+        "processor": "Intel Core i5 or AMD equivalent",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 660 or AMD Radeon HD 7950",
+        "storage": "2 GB available space"
+      },
+      "screenshots": [
+        {
+          "id": "1283",
+          "image": "https://www.freetogame.com/g/523/fall-guys-1.jpg"
+        },
+        {
+          "id": "1284",
+          "image": "https://www.freetogame.com/g/523/fall-guys-2.jpg"
+        },
+        {
+          "id": "1285",
+          "image": "https://www.freetogame.com/g/523/fall-guys-3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "340",
+      "title": "Game Of Thrones Winter Is Coming",
+      "thumbnail": "https://www.freetogame.com/g/340/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "A free-to-play browser-based RTS based on the George R.R. Martin novels and popular HBO series.",
+      "description": "Game of Thrones Winter is Coming is a free-to-play browser-based RTS based on the George R.R. Martin novels and popular HBO series. In the game developed by YOOZOOGames, player take on the role of a Westeros lord set on putting a stop to the wars between the Seven Kingdoms.\r\n\r\nThe game is built in Unity and offers players a balanced mix of strategy and RP. Players build bases, grow their kingdom, train armies, and recruit characters from the show, all while living within the story set forth in the TV series.",
+      "gameUrl": "https://www.freetogame.com/open/game-of-thrones-winter-is-coming",
+      "genre": "Strategy",
+      "platform": "Web Browser",
+      "publisher": "GTArcade",
+      "developer": "YOOZOO Games ",
+      "releaseDate": "2019-11-14",
+      "freetogameProfileUrl": "https://www.freetogame.com/game-of-thrones-winter-is-coming",
+      "screenshots": [
+        {
+          "id": "897",
+          "image": "https://www.freetogame.com/g/340/game-of-thrones-winter-is-coming-1.jpg"
+        },
+        {
+          "id": "898",
+          "image": "https://www.freetogame.com/g/340/game-of-thrones-winter-is-coming-2.jpg"
+        },
+        {
+          "id": "899",
+          "image": "https://www.freetogame.com/g/340/game-of-thrones-winter-is-coming-3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "347",
+      "title": "Elvenar",
+      "thumbnail": "https://www.freetogame.com/g/347/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "A browser based city-building strategy MMO set in the fantasy world of Elvenar.",
+      "description": "Elvenar is a free to play browser-based 2D Strategy MMO with traditional city building gameplay and RPG elements from InnoGames. This strategy game puts players in the realm of Elvenar in order to choose a civilization that they will then build into a thriving and mighty empire. Which civilization will you help raise to glory in Elvenar: the Humans or the Elves?\r\n\r\nElvenar features gameplay based on other traditional city building games, with focus honing in on adding buildings, exploring the in-game map, and tending to the needs of the population. Both the Humans and the Elves have their own unique city styles befitting their respective cultures.\r\n\r\nSpeaking of culture, Elvenar also boasts a Culture system that rewards players who take the time improve the happiness of the townspeople with innovative decorations around their city.\r\n\r\nBut there is more to Elvenar than simple city building and culture: combat is an integral part of the game as well. Players must raise an army to protect their fledgling town from attacks, and the turn-based combat system puts players in direct control of their forces instead of letting them auto-battle. You will decide whether or not your civilization succeeds or fails.\r\n\r\nInnoGames offers constant updates and new content for Elvenar, meaning that the gameplay and aesthetics are always changing. The crisp artsyle also ensures that the game can be successfully run on almost any computer system.\r\n\r\nWhich side you choose in Elvenar will decide how your growing city will look and how it develops, so choose wisely.",
+      "gameUrl": "https://www.freetogame.com/open/elvenar",
+      "genre": "Strategy",
+      "platform": "Web Browser",
+      "publisher": "InnoGames",
+      "developer": "InnoGames",
+      "releaseDate": "2015-04-08",
+      "freetogameProfileUrl": "https://www.freetogame.com/elvenar",
+      "screenshots": [
+        {
+          "id": "915",
+          "image": "https://www.freetogame.com/g/347/Elvenar-1.jpg"
+        },
+        {
+          "id": "916",
+          "image": "https://www.freetogame.com/g/347/Elvenar-2.jpg"
+        },
+        {
+          "id": "917",
+          "image": "https://www.freetogame.com/g/347/Elvenar-3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Neverwinter",
+      "thumbnail": "https://www.freetogame.com/g/11/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "A free-to-play 3D action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game. ",
+      "description": "If you’re a fan of Dungeons and Dragons, have I got a game for you! Neverwinter, developed by Cryptic Studios and published by Perfect World Entertainment, is based on the critically acclaimed fantasy role playing game and the best part is ­ it’s free to play. In the world of Neverwinter, you will explore and defend one of the most beloved cities from the Dungeons and Dragons Forgotten Realms Campaign Setting, as it rises from the ashes of total destruction. In this totally immersive MMORPG you will go from the besieged walls of the city, to the subterranean passageways and search for forgotten secrets and lost treasure along the way.\r\n\r\nNeverwinter is completely free to play, from the very first level, all the way up to the level cap, so anyone is able to experience the engaging action and combat it brings. You don’t have to worry about tab­targeting or auto­attacking to defeat your enemies, Neverwinter provides an amazing combat experience where every action will require planning and feel visceral and look spectacular.\r\n\r\nNeverwinter also comes with Foundry, which is a dynamic tool set that will provide you with the game assets and a sandbox environment that will allow you to create your own adventures ­ and when you are ready to unveil your creation to the world ­ you are able to hook it up directly to the existing work so everyone else in the community can experience it as well!\r\n\r\nWhether you are familiar with Dungeons and Dragons from the tabletop game or from the novels, Neverwinter has recreated many of the iconic classes, locations and encounters that you will know and love! You might choose to go on an adventure as a mighty Guardian Fighter, choose to deceive foes as a Trickster Rogue, or follow the righteous path as a Devoted Cleric, but whatever journey you decide to take in Neverwinter you will face Kobolds, Beholders, Mimics and many other creatures from the Dungeons and Dragons universe, and you will surely feel right at home!",
+      "gameUrl": "https://www.freetogame.com/open/neverwinter",
+      "genre": "MMORPG",
+      "platform": "Windows",
+      "publisher": "Perfect World Entertainment",
+      "developer": "Cryptic Studios",
+      "releaseDate": "2013-12-06",
+      "freetogameProfileUrl": "https://www.freetogame.com/neverwinter",
+      "minimumSystemRequirements": {
+        "os": "Windows® XP, Windows Vista, Windows 7 or Windows 8 ",
+        "processor": "Dual-core 2.0GHz CPU or better",
+        "memory": "1 GB RAM ",
+        "graphics": "Shader Model 2.0 or higher, GeForce 6800 or ATI Radeon X850 performance, 128MB+ video ram",
+        "storage": "4 GB available space "
+      },
+      "screenshots": [
+        {
+          "id": "46",
+          "image": "https://www.freetogame.com/g/11/Neverwinter-1.jpg"
+        },
+        {
+          "id": "47",
+          "image": "https://www.freetogame.com/g/11/Neverwinter-2.jpg"
+        },
+        {
+          "id": "48",
+          "image": "https://www.freetogame.com/g/11/Neverwinter-3.jpg"
+        },
+        {
+          "id": "49",
+          "image": "https://www.freetogame.com/g/11/Neverwinter-4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "380",
+      "title": "Dark Orbit Reloaded",
+      "thumbnail": "https://www.freetogame.com/g/380/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "A browser-based 3D space-combat MMO with a massive playerbase!",
+      "description": "Dark Orbit Reloaded is a browser based 3d space-combat MMO with a massive playerbase and endless customization. originally launched in 2006, Dark Orbit was recently revamped with 3d graphics, new interface and new maps.\r\n\r\nBigpoint games give players the freedom to explore the vast cosmos and engage in fierce PvP combat across the stars. Players in DarkOrbit will start by choosing a company to work for – the Earth Industries Corporation, the Mars Mining Operations, or the Venus Resources Unlimited – and carry out their work throughout the galaxy. Each corporation has their own unique view, base of operations, and the players within each are as varied as the stars.\r\n\r\nIn DarkOrbit, players from rival factions won’t be your only threat. Aliens prowl among the planets and you must fight them in order to thrive and survive for your sake and the company whose banner you operate under.\r\n\r\nThough DarkOrbit only features ten different models of spaceship, the options to customize them are only as limited as you want them to be. Fight to obtain wealth and upgrade your vessel in order to decimate other players in pitched PvP game modes.\r\n\r\nChoose your faction and ready your spaceship’s thrusters and weapons in DarkOrbit. The galaxy is waiting for you to conquer it, but only the most cunning and well-equipped will succeed.",
+      "gameUrl": "https://www.freetogame.com/open/darkorbit",
+      "genre": "Shooter",
+      "platform": "Web Browser",
+      "publisher": "Bigpoint",
+      "developer": "Bigpoint",
+      "releaseDate": "2006-12-11",
+      "freetogameProfileUrl": "https://www.freetogame.com/darkorbit",
+      "screenshots": [
+        {
+          "id": "974",
+          "image": "https://www.freetogame.com/g/380/DarkOrbit-Reloaded-screenshots-1.jpg"
+        },
+        {
+          "id": "975",
+          "image": "https://www.freetogame.com/g/380/DarkOrbit-Reloaded-screenshots-2.jpg"
+        },
+        {
+          "id": "976",
+          "image": "https://www.freetogame.com/g/380/DarkOrbit-Reloaded-screenshots-3.jpg"
+        },
+        {
+          "id": "977",
+          "image": "https://www.freetogame.com/g/380/DarkOrbit-Reloaded-screenshots-4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "517",
+      "title": "Lost Ark",
+      "thumbnail": "https://www.freetogame.com/g/517/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "Smilegate’s free-to-play multiplayer ARPG is a massive adventure filled with lands waiting to be explored, people waiting to be met, and an ancient evil waiting to be destroyed.",
+      "description": "Smilegate’s free-to-play multiplayer ARPG is a massive adventure filled with lands waiting to be explored, people waiting to be met, and an ancient evil waiting to be destroyed. In Lost Ark, players enter the world of Arkesia and embark on a journey across several lands in a quest to locate the Ark of Legends. Stop the demon Kazeros and his army before they seize control. And hurry, the demons are searching for the Ark too.\r\n\r\nChoose to play as one of several classes ranging from the sword-wielding warrior to a mage or even the gunner – each with several advanced class options. Play alone or with friends (or acquaintances) to explore seven vast continents filled with strange cultures and creatures. Fight in PvP, explore dungeons, and work together in raids. Decide what you like to do best and go for it – but don’t forget to save the world.\r\n\r\nLost Ark offers an easy-to-learn system with plenty of room to customize. Use the game’s ‘Tripod’ system to unlock up to three tiers of customization for each ability and create the combat style that works best for you.\r\n\r\nAs for other features, Lost Ark offers crafting, guilds, and other systems players expect from online games. Whatever you want to do, it’s up to you.\r\n",
+      "gameUrl": "https://www.freetogame.com/open/lost-ark",
+      "genre": "ARPG",
+      "platform": "Windows",
+      "publisher": "Amazon Games",
+      "developer": "Smilegate RPG",
+      "releaseDate": "2022-02-11",
+      "freetogameProfileUrl": "https://www.freetogame.com/lost-ark",
+      "minimumSystemRequirements": {
+        "os": "Windows 10 (64-bit only)",
+        "processor": "Intel i3 or AMD Ryzen 3",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 460 / AMD HD6850",
+        "storage": "50 GB available space"
+      },
+      "screenshots": [
+        {
+          "id": "1259",
+          "image": "https://www.freetogame.com/g/517/lost-ark-1.jpg"
+        },
+        {
+          "id": "1260",
+          "image": "https://www.freetogame.com/g/517/lost-ark-2.jpg"
+        },
+        {
+          "id": "1261",
+          "image": "https://www.freetogame.com/g/517/lost-ark-3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "573",
+      "title": "Titan Revenge",
+      "thumbnail": "https://www.freetogame.com/g/573/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "A 3D Norse-themed browser MMORPG developed and published by Game Hollywood Games",
+      "description": "Titan Revenge is a Norse-themed browser MMORPG developed and published by Game Hollywood Games. Set in a world facing an apocalypse, the game casts players as the hero, taking on mythical beasts and gods. \r\n\r\nPlayers choose from three classes, Knight, Mage, or Archer. The game uses an “Ethereal System” that grants players more skills in addition to their class skills as they turn into an Angel or a Titan. This transformation even increases their damage and HP and is used during battle. The game features a mix of social systems: Destiny, Friends, and Alliance. It also includes a marriage system.\r\n\r\nAs far as battle content goes, players can fight in cross-server Arena as well as the Imperial War and Archangel War. Also included are a variety of battle modes ranging from 1v1 to Cross-server Faction battles.",
+      "gameUrl": "https://www.freetogame.com/open/titan-revenge",
+      "genre": "MMORPG",
+      "platform": "Web Browser",
+      "publisher": "Game Hollywood Games",
+      "developer": "Game Hollywood Games",
+      "releaseDate": "2023-12-20",
+      "freetogameProfileUrl": "https://www.freetogame.com/titan-revenge",
+      "screenshots": [
+        {
+          "id": "1421",
+          "image": "https://www.freetogame.com/g/573/titan-revenge-1.jpg"
+        },
+        {
+          "id": "1422",
+          "image": "https://www.freetogame.com/g/573/titan-revenge-2.jpg"
+        },
+        {
+          "id": "1423",
+          "image": "https://www.freetogame.com/g/573/titan-revenge-3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "521",
+      "title": "Diablo Immortal",
+      "thumbnail": "https://www.freetogame.com/g/521/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "Built for mobile and also released on PC, Diablo Immortal fills in the gaps between Diablo II and III in an MMOARPG environment.",
+      "description": "The demon fighting doesn’t have to stop when you walk away from the computer thanks to Blizzard Entertainment’s Diablo Immortal. Built for mobile and also released on PC, the game fills in the gaps between Diablo II and III in an MMOARPG environment.\r\n\r\nDiablo Immortal picks up following the presumed death of the Archangel Tyrael, during which time mankind must deal with the fallout. One of the many problems are the fragments of the shattered Worldstone spread across the land, waiting for Diablo’s underlings to collect them in an attempt to bring about his return.\r\n\r\nPlayers can choose from one of six classes in Diablo Immortal. These are the classic Barbarian, the Crusader, the Demon Hunter, the Monk, the Necromancer, and the Wizard. All six classes features their own unique skills and abilities.\r\n\r\nThe game also introduces six new bosses, ranging from The Skeleton King to the Glacial Colossus. Each offers players a unique challenge, and all are found in places filled with danger. So, players will want to be well prepared before taking them on.\r\n",
+      "gameUrl": "https://www.freetogame.com/open/diablo-immortal",
+      "genre": "MMOARPG",
+      "platform": "Windows",
+      "publisher": "Blizzard Entertainment",
+      "developer": "Blizzard Entertainment",
+      "releaseDate": "2022-06-02",
+      "freetogameProfileUrl": "https://www.freetogame.com/diablo-immortal",
+      "minimumSystemRequirements": {
+        "os": "Windows 7 / Windows 8 / Windows 10 / Windows 11 (64-bit)",
+        "processor": "Intel Core i3 or AMD FX-8100",
+        "memory": "4 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 460, ATI Radeon HD 6850 or Intel HD Graphics 530",
+        "storage": "?"
+      },
+      "screenshots": [
+        {
+          "id": "1277",
+          "image": "https://www.freetogame.com/g/521/diablo-immortal-1.jpg"
+        },
+        {
+          "id": "1278",
+          "image": "https://www.freetogame.com/g/521/diablo-immortal-2.jpg"
+        },
+        {
+          "id": "1279",
+          "image": "https://www.freetogame.com/g/521/diablo-immortal-3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "522",
+      "title": "Flyff Universe",
+      "thumbnail": "https://www.freetogame.com/g/522/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "Get the full Flyff experience on any platform with the free-to-play browser-based MMORPG Flyff Universe.",
+      "description": "Players can now get the full Flyff experience on any platform with the browser-based Flyff Universe. The cross-platform game from Gala Lab allows players to access the world of Madrigal from anywhere, whether it be PC, phone, or tablet. As long as it has a browser, players are good to go.\r\n\r\nFlyff Universe is an enhanced version of the original free-to-play MMORPG, featuring a new graphics engine with antialiasing, post-processing, advanced shaders, and more. The game also offers new quality of life changes with the developers monitoring things to make sure everything is operating as it should. But it hasn’t all changed, a lot of old school elements still exist in Flyff Universe, including PK, catchers, and gold icons.\r\n\r\nThe game offers players plenty of places to explore. Among these are the peaceful village of Flaris, the despair filled Mars Dungeon, Saint Morning – the home of Sain City, and the Iblis Temple. \r\n",
+      "gameUrl": "https://www.freetogame.com/open/flyff-universe",
+      "genre": "MMORPG",
+      "platform": "Web Browser",
+      "publisher": "Gala Lab",
+      "developer": "Gala Lab",
+      "releaseDate": "2022-06-14",
+      "freetogameProfileUrl": "https://www.freetogame.com/flyff-universe",
+      "screenshots": [
+        {
+          "id": "1280",
+          "image": "https://www.freetogame.com/g/522/flyff-universe-1.jpg"
+        },
+        {
+          "id": "1281",
+          "image": "https://www.freetogame.com/g/522/flyff-universe-2.jpg"
+        },
+        {
+          "id": "1282",
+          "image": "https://www.freetogame.com/g/522/flyff-universe-3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "511",
+      "title": "Phantasy Star Online 2 New Genesis",
+      "thumbnail": "https://www.freetogame.com/g/511/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "The legacy of Phantasy Star Online 2 continues a thousand years later!",
+      "description": "The legacy of Phantasy Star Online 2 continues a thousand years later, as the next generation of ARKS operatives join forces with a race known as the Meteorn on the planet Halpha to defend against a new threat, The Dolls. Phantasy Star Online 2: New Genesis is an open world online RPG featuring a day-night cycles, weather effects, and a revamped battle system. It also introduces ways to travel no in the previous game, including gliding. All of this is built on a new graphics engine. \r\n\r\nDespite its differences from PSO2, the games are still connected, with players being able to move back and forth via the client. Players of the original can even bring characters already created in the original game, as well as certain items into New Genesis. For those who played the original game, New Genesis will be familiar in a lot of ways. The games have similar interfaces, quest types and other features. They both also share the same class types, and as with the original game, players will use Mags in combat. \r\n\r\nPlayers just entering the Phantasy Star Online 2 universe through New Genesis will also be able to take advantage of its relationship with the original game. The games share the same client and players can move between them and even collect gear from the original game to use in NGS.\r\n",
+      "gameUrl": "https://www.freetogame.com/open/pso2-new-genesis",
+      "genre": "MMORPG",
+      "platform": "Windows",
+      "publisher": "Sega",
+      "developer": "Sega",
+      "releaseDate": "2021-06-09",
+      "freetogameProfileUrl": "https://www.freetogame.com/pso2-new-genesis",
+      "minimumSystemRequirements": {
+        "os": "Windows 8.1",
+        "processor": "Intel Core i5-9400 ",
+        "memory": "8 GB",
+        "graphics": "GeForce GTX 950 or Radeon R9 285",
+        "storage": "100 GB"
+      },
+      "screenshots": [
+        {
+          "id": "1240",
+          "image": "https://www.freetogame.com/g/511/PSO2NGS-1.jpg"
+        },
+        {
+          "id": "1241",
+          "image": "https://www.freetogame.com/g/511/PSO2NGS-2.jpg"
+        },
+        {
+          "id": "1242",
+          "image": "https://www.freetogame.com/g/511/PSO2NGS-3.jpg"
+        },
+        {
+          "id": "1243",
+          "image": "https://www.freetogame.com/g/511/PSO2NGS-4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "455",
+      "title": "Eternal Fury",
+      "thumbnail": "https://www.freetogame.com/g/455/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "A free-to-play ARPG from R2 Games!",
+      "description": "Eternal Fury is a free-to-play ARPG from R2 Games. The game is an HTML 5 port of a mobile game developed by Game Hollywood. In it, take part in a classic struggle of good vs evil, interacting with characters based on Norse mythology.\r\n\r\nOne of the features of Eternal Fury is that players are given an opportunity to build their own kingdom, using it as a base of operations. Of course, they also need to defend it. They'll be competing with other players for land and resources, and also fighting against them in everything from castle raids to arena PvP.\r\n\r\nAs should be expected in this type of game, there is a guild system that allows players to band together, taking on different tasks together and sharing the rewards.",
+      "gameUrl": "https://www.freetogame.com/open/eternal-fury",
+      "genre": "MMORPG",
+      "platform": "Web Browser",
+      "publisher": "R2 Games",
+      "developer": "R2 Games",
+      "releaseDate": "2019-05-21",
+      "freetogameProfileUrl": "https://www.freetogame.com/eternal-fury",
+      "screenshots": []
+    },
+    {
+      "id": "5",
+      "title": "Crossout",
+      "thumbnail": "https://www.freetogame.com/g/5/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "A post-apocalyptic MMO vehicle combat game! ",
+      "description": "Crossout is a free to play post-apocalyptic MMO vehicle combat game! Gaijin Entertainment is taking the vehicular multiplayer shooter genre full gear with Crossout.\r\n\r\nFollowing the double catastrophes of a failed genetic testing project and an alien invasion, players are thrown into a wasteland world not unlike that of Mad Max. The harsh, post-apocalyptic terrain of Crossout forces players to build and customize their vehicles to fight and endure the elements and other players. Hunker down in the in-game Workshop and use the countless parts earned in battle to craft a formidable death machine capable of laying waste to opponents.\r\n\r\nWeapons in Crossout range from roof-mounted miniguns to vehicular chainsaws and everything in between the player can imagine. But combat isn’t all there is to Crossout. The in-game economy is driven by the players, allowing them to trade the parts they’ve earned with one another to craft stronger, pitiless, machines. Vehicles in Crossout must be strong, for the damage a vehicle takes in battle will affect its performance. And when the enemy is charging with a vehicle-mounted powerdrill, peak performance is everything.  Crossout is everything players looking for the post-apocalyptic vehicular warfare experience could possibly want. Find a vehicle and turn it into a death-spitting chariot of war!",
+      "gameUrl": "https://www.freetogame.com/open/crossout",
+      "genre": "Shooter",
+      "platform": "Windows",
+      "publisher": "Targem",
+      "developer": "Gaijin",
+      "releaseDate": "2017-05-30",
+      "freetogameProfileUrl": "https://www.freetogame.com/crossout",
+      "minimumSystemRequirements": {
+        "os": null,
+        "processor": null,
+        "memory": null,
+        "graphics": null,
+        "storage": null
+      },
+      "screenshots": [
+        {
+          "id": "22",
+          "image": "https://www.freetogame.com/g/5/Crossout-1.jpg"
+        },
+        {
+          "id": "23",
+          "image": "https://www.freetogame.com/g/5/Crossout-2.jpg"
+        },
+        {
+          "id": "24",
+          "image": "https://www.freetogame.com/g/5/Crossout-3.jpg"
+        },
+        {
+          "id": "25",
+          "image": "https://www.freetogame.com/g/5/Crossout-4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "World of Warships",
+      "thumbnail": "https://www.freetogame.com/g/9/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "A 3D free to play naval action-themed MMO from the creators of World of Tanks! ",
+      "description": "World of Warships is a 3D free to play naval action-themed MMO (massively multiplayer online) from the creators of World of Tanks and World of Warplanes. The high seas cry out as the mightiest warships in history are brought back for a final round of all-out battle to the death in Wargaming’s free-to-play World of Warships! Take command of the world’s most famous classes of battleships, aircraft carriers, cruisers, and destroyers across dozens of detailed maps in pitched MMO battles against players the world over.\r\n\r\nWorld of Warships offers an unmatched experience in MMO combat. Hear the roar of the guns as the mighty Yamato catches sight of her prey. Guide your air squadrons in for precision torpedo and dive-bomb attacks from the deck of the carrier USS Independence. Get in up close & personal with your foes in a swift tin can destroyer and devastate them with a lethal broadside of explosive torpedoes. The battle is all around you so stay alert!\r\n\r\nAs you participate in battles, you can upgrade the ships in your fleet with more powerful armaments to give your enemies an even greater surprise. Your victory is dependent upon your ability to upgrade your vessel and prepare your crew to meet the enemy. The best captains ride the ocean waves atop their armored steeds. All others are sent to the bottom of the abyss.\r\n\r\nBut World of Warships isn’t limited to team matches. Wargaming hosts tons of special events that create a unique challenge for players where the rewards could mean better upgrades to your fleet.\r\n\r\nJoin the navy of World of Warships and see the world of heart racing, fast thinking MMO combat like you’ve never seen it before!",
+      "gameUrl": "https://www.freetogame.com/open/world-of-warships",
+      "genre": "Shooter",
+      "platform": "Windows",
+      "publisher": "Wargaming",
+      "developer": "Wargaming",
+      "releaseDate": "2015-07-02",
+      "freetogameProfileUrl": "https://www.freetogame.com/world-of-warships",
+      "minimumSystemRequirements": {
+        "os": "Windows XP, Windows Vista, or Windows 7",
+        "processor": "Core2 Duo E6750 (Pentium 4 2.4GHz or Athlon XP 3100+)",
+        "memory": "4GB DDR2",
+        "graphics": "GeForce 9600GT (512 Mb) / GeForce 6800 GT or Radeon X800 GT",
+        "storage": "30 GB"
+      },
+      "screenshots": [
+        {
+          "id": "38",
+          "image": "https://www.freetogame.com/g/9/World-of-Warships-1.jpg"
+        },
+        {
+          "id": "39",
+          "image": "https://www.freetogame.com/g/9/World-of-Warships-2.jpg"
+        },
+        {
+          "id": "40",
+          "image": "https://www.freetogame.com/g/9/World-of-Warships-3.jpg"
+        },
+        {
+          "id": "41",
+          "image": "https://www.freetogame.com/g/9/World-of-Warships-4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "War Thunder",
+      "thumbnail": "https://www.freetogame.com/g/12/thumbnail.jpg",
+      "status": "Live",
+      "shortDescription": "A MMO shooter that puts you in command of hundreds of the finest combat vehicles of World War II.",
+      "description": "War Thunder is a massively multiplayer shooter that puts you in command of hundreds of the finest combat vehicles of World War II. You’ll pilot warplanes in exciting PvP dogfights and rumble across the battlefield in tanks, battling against foes on across several vintage maps, featuring diverse terrain and offering several strategic options. There are many different ways to play War Thunder, ranging from quick arcade mode-style combat to competitive, realistic battles.\r\n\r\nThe vehicles in War Thunder represent WWII-era tanks and planes from several different nations, including the United States, Great Britain, Germany, Japan, and the USSR. Battles earn you currency you can use to upgrade your vehicles with better engines, weaponry, and other modifications, and you’ll also earn experience that you can use to unlock more vehicles and increase your crew’s performance. Planes include quick and agile fighters, giant flying fortresses, and precision bombers, while tanks run the gamut from light to heavy to self-propelled artillery. Each has its own strengths and weaknesses and learning how to properly use your vehicles is the key to victory.\r\n\r\nThe most common game modes are PvP battles that revolve around a series of control points or that task players with destroying enemy vehicles, whether AI-controlled or belonging to other players. Each player brings a squad of up to five vehicles and, when your current vehicle is destroyed, you’ll choose another one to ride back into combat. You can also adjust battle realism, opting for simpler controls with target reticles and other helpful guides, or complete realism, with very few artificial elements in the way of aid. In addition to PvP battles, there are also PvE campaigns and missions you can take on alone or with other players. No matter how you play War Thunder, the action will be easy to find and the battles will have you on the edge of your seat!",
+      "gameUrl": "https://www.freetogame.com/open/war-thunder",
+      "genre": "Shooter",
+      "platform": "Windows",
+      "publisher": "Gaijin Entertainment",
+      "developer": "Gaijin Entertainment",
+      "releaseDate": "2013-08-15",
+      "freetogameProfileUrl": "https://www.freetogame.com/war-thunder",
+      "minimumSystemRequirements": {
+        "os": "Windows XP SP2, Windows Vista SP1, Windows 7, Windows 8",
+        "processor": "2.2 GHz",
+        "memory": "1 GB RAM ",
+        "graphics": "Radeon X26XX / GeForce 7800 GT",
+        "storage": "3 GB available space "
+      },
+      "screenshots": [
+        {
+          "id": "50",
+          "image": "https://www.freetogame.com/g/12/War-Thunder-1.jpg"
+        },
+        {
+          "id": "51",
+          "image": "https://www.freetogame.com/g/12/War-Thunder-2.jpg"
+        },
+        {
+          "id": "52",
+          "image": "https://www.freetogame.com/g/12/War-Thunder-3.jpg"
+        },
+        {
+          "id": "53",
+          "image": "https://www.freetogame.com/g/12/War-Thunder-4.jpg"
+        }
+      ]
+    }
+  ]
+}

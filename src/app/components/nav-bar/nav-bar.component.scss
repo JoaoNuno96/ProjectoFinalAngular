@@ -1,0 +1,21 @@
+.navbar{
+  // background: linear-gradient(217deg, rgba(230, 178, 9, 0.4), rgba(12, 187, 97, 0.4) 70.71%),url("https://images.pexels.com/photos/275033/pexels-photo-275033.jpeg?cs=srgb&dl=pexels-pixabay-275033.jpg&fm=jpg") !important;
+}
+
+#title,#userL,#userG{
+  color: #07399c !important;
+}
+
+#logoProfile{
+  border: 1px solid #07399c !important;
+  color: #07399c;
+}
+
+#logoProfile:hover{
+  border: none;
+  background-color:#07399c !important ;
+  color: #FFF;
+  transition: 0.5s;
+}
+
+

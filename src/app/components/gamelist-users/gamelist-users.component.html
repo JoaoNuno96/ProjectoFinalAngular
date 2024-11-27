@@ -1,0 +1,56 @@
+
+<h1 class="text-center fst-italic fw-bold text-light">List of {{this.typeListName}}</h1>
+<br />
+
+<div class="text-center d-flex justify-content-center">
+  <table id="table" class="table table-hover align-middle mb-0 table-dark">
+    <thead class="table-light">
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Name</th>
+        <th scope="col">Thumbnail</th>
+        <th scope="col">ShortDescription</th>
+        <th scope="col">GameUrl</th>
+        <th scope="col">Genre</th>
+        <th scope="col">Platform</th>
+        <th scope="col">Publisher</th>
+        <th scope="col">Developer</th>
+        <th scope="col">ReleaseDate</th>
+        <th scope="col">FreetogameProfileUrl</th>
+        <th scope="col">Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      @for (game of this.listGames; track $index)
+      {
+        <tr>
+          <td>{{game.id}}</td>
+          <td>{{game.title}}</td>
+          <td>
+            <img [src]="game.thumbnail" alt="gameImage" width="100" />
+          </td>
+          <td>{{game.shortDescription}}</td>
+          <td>
+            <a [href]="game.gameUrl" target="_blank">GameUrl</a>
+           </td>
+          <td>{{game.genre}}</td>
+          <td>{{game.platform}}</td>
+          <td>{{game.publisher}}</td>
+          <td>{{game.developer}}</td>
+          <td>{{game.releaseDate}}</td>
+          <td>
+            <a [href]="game.freetogameProfileUrl" target="_blank">FreetogameProfileUrl
+            </a>
+          </td>
+          <td>
+            <a routerLink="/jogo/{{game.id}}" class="btn btn-info">Details</a>
+
+          </td>
+        </tr>
+      }
+
+    </tbody>
+  </table>
+
+
+</div>
